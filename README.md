@@ -25,8 +25,8 @@
 3. Install library GORM dengan perintah `go get gorm.io/gorm gorm.io/driver/mysql`
 4. Install library Echo dengan perintah `go get github.com/labstack/echo/v4`
 5. Cek apakah library sudah terinstall dengan perintah `go list -m all`
-   <!-- note, untuk menuju ke panduan createGo -->
-   > Untuk panduan lengkap membuat project Go, bisa dilihat di [sini](/panduan/createGo.md)
+   <!-- note, untuk menuju ke panduan/createGo from baseurl github -->
+   > Untuk panduan lengkap membuat project Go, bisa dilihat di [sini](https://github.com/arifswn/goBio/blob/main/panduan/createGo.md)
 
 <!-- link ke panduan createDB -->
 
@@ -39,7 +39,7 @@
 5. Buat database dengan perintah `create database go_bio`
 6. Keluar dari MySQL dengan perintah `exit`
    <!-- note, untuk menuju ke panduan createDB -->
-   > Untuk panduan lengkap membuat database MySQL, bisa dilihat di [sini](/panduan/createDB.md)
+   > Untuk panduan lengkap membuat database MySQL, bisa dilihat di [sini](https://github.com/arifswn/goBio/blob/main/panduan/createDB.md)
 
 <!-- support and contact -->
 
@@ -48,6 +48,7 @@
 <!-- talk about me -->
 
 <!-- create smile and coffe -->
+
 > Jika kalian merasa terbantu dengan adanya project ini, kalian bisa memberikan dukungan dengan cara memberikan bintang ⭐ pada project ini. Terima kasih atas dukungannya.
 
 > Coffee ☕ adalah minuman yang sangat membantu saya dalam membuat project ini. Jika kalian ingin membelikan saya kopi, bisa melalui [sini](https://saweria.co/arifswn).
