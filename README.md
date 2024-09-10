@@ -53,7 +53,7 @@
 
 > Coffee ☕ adalah minuman yang sangat membantu saya dalam membuat project ini. Jika kalian ingin membelikan saya kopi, bisa melalui [sini](https://saweria.co/arifswn).
 
-> Jika ada pertanyaan, saran, atau masukan, bisa menghubungi saya melalui email di [sini](mailto:hexabiner808@gmail.com) atau melalui [LinkedIn](https://www.linkedin.com/in/arifswn/).
+> Jika ada pertanyaan, saran, atau masukan, bisa menghubungi saya melalui email di [sini](mailto:arifswn1@gmail.com) atau melalui [LinkedIn](https://www.linkedin.com/in/arifswn/).
 
 <!-- license -->
 
